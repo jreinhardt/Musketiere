@@ -1,0 +1,342 @@
+/*
+20080124	GB: Versuch eines Neuanfangs
+20090513	.dedication (gh)
+20100522	.dedication p (gh)
+20100412	[lang] immer grau, sofern nicht explizit angegeben (gh)
+20100530	img.initial, width
+20101014	body font-size:12pt (gh)
+
+201110213	a.pageref         { display: none; color: #006060 } (HR)
+*/
+
+/* geändert (gh)
+
+alt: a:hover   { color: #003399; text-decoration: none; background-color:#e0e0e0 }
+div.motto p
+*/
+
+/* besser: #gentoc in xml2htm festlegen */
+
+div#gutenb #gentoc	{position:fixed; top:120px; left:840px}
+
+div#gutenb {font-family:sans-serif; font-size:12pt; color: #000000;}
+
+/********************* Links *********************/
+/* Die Reihenfolge darf nicht verändert werden! */
+div#gutenb a:link    { color: #003399; text-decoration: none; font-weight:bold }
+div#gutenb a:visited { color: #a0a0a0; text-decoration: none; font-weight:bold }
+div#gutenb a:hover   { color: #003399; text-decoration: underline }
+div#gutenb a:active  { color: #003399; text-decoration:  none }
+
+/* end geändert */
+
+/******************** Universelle Klassen ********************/
+/* .action s. .regie */
+
+        /* Autorname (auf Titelseite) */
+div#gutenb .author     { color: gray }
+
+        /* Eingerahmter Text */
+div#gutenb .box        { margin: 1.5em 15%; border: 1px solid #666666; padding: 1em }
+
+/*** geändert. Re (aus drama.css übernommen) ***/
+div#gutenb .dedication p { text-indent: 0; text-align: center; font-size: 1.5em;
+              margin-top: 2em; margin-bottom: 2em; margin-left: 20%;
+              margin-right: 20%; }
+
+        /* Abbildungen */
+div#gutenb .figcaption { text-indent: 0; text-align: center; font-style: italic }
+div#gutenb .figure     { text-indent: 0; text-align: center; margin-top: 1em; margin-bottom: 1em }
+
+        /* Besser nicht verwenden: für Fraktur gibt's keinen Standard-Font */
+div#gutenb .fraktur    { font-family: "Frankenstein", Times, serif }
+
+	/*geändert 110221 Re */
+div#gutenb .hidden, div#gutenb .hide { display: none }
+
+        /* set display:none for printing */
+div#gutenb .lektorat   { color: darkred; font-size: small }
+
+div#gutenb .motto      { text-indent: 0; margin-left: 50%; margin-top: 1em;
+              margin-bottom: 1em }
+
+        /* kleiner Text */
+div#gutenb .note       { line-height: 90%; font-size: 90% }
+ 
+/* .online     { display: none } */
+
+div#gutenb .overline   { text-decoration: overline }
+
+div#gutenb .recipient  { margin-left: -1em; margin-top: 1em; margin-bottom: 1em }
+
+        /* Regie-Anweisung im Schauspiel */
+div#gutenb .regie, div#gutenb .action   { font-size: 90%; font-style: italic; padding-left: 0.3em  }
+
+div#gutenb .sender     { margin-left: 0; font-style: italic; font-weight: bold;
+              color: darkblue; margin-left: 2em }
+
+div#gutenb .signatur, div#gutenb .signature { text-align: right; margin-right: 2em }
+
+        /* Kapitälchen */
+div#gutenb .smallcaps  { font-variant: small-caps }
+
+/* .spaced s. .wide */
+
+        /* Sprecher im Schauspiel. geändert. Re. */
+div#gutenb .speaker, div#gutenb .sprecher    { font-weight: bold }
+
+div#gutenb .subtitle   { color: darkgray }
+
+div#gutenb .title      { }
+
+        /* Großbuchstaben */
+div#gutenb .upper      { text-transform: uppercase }
+
+        /* Sperrsatz (Duden: Satzzeichen außer Punkt und Anführungszeichen werden mit gesperrt, Zahlen werden's nicht)*/
+div#gutenb .wide, div#gutenb .spaced { letter-spacing: 0.15em }
+
+
+
+/******************** Überschriften ********************/
+div#gutenb h1, div#gutenb h2, div#gutenb h3, div#gutenb h4, div#gutenb h5, div#gutenb h6 { text-align: center; color: #000000;}
+
+
+
+/******************** Fließtext ********************/
+div#gutenb p           { margin-top: 0.4em; margin-bottom: 0.4em; text-indent: 0.8em;
+              text-align: justify }
+
+div#gutenb p.abstract  { font-size: 90%; font-style: italic; margin-left: 3em;
+              margin-right: 3em; text-indent: 0; text-align: justify }
+
+/* p.address s. im Abschnitt "Briefe" */
+
+div#gutenb p.center    { text-indent: 0; text-align: center }
+
+div#gutenb p.centerbig { margin-bottom: 0.6em; margin-top: 0.6em; text-indent: 0;
+              text-align: center; font-size: 115% }
+
+div#gutenb p.centersml { text-indent: 0; text-align: center; font-size: 90%;
+              margin-bottom: 0.3em; margin-top: 0.3em }
+
+/* p.date s. im Abschnitt "Briefe" */
+
+div#gutenb p.dblmarg   { text-indent: 0; margin-left: 10%; margin-right: 10% }
+
+div#gutenb p.drama     { margin-left: 2em; text-indent: -2em; margin-top: 0.5em;
+              margin-bottom: 0.5em }
+
+div#gutenb p.epigraph  { text-indent: 0; text-align: right;
+              margin-right: 5%; font-style: italic }
+
+div#gutenb p.left      { text-indent: 0; text-align: left }
+
+div#gutenb p.initial   { text-indent: 0; text-align: justify }
+div#gutenb p.initial:first-letter { font-size: 180% }
+
+div#gutenb p.leftjust  { text-indent: 0 }
+
+div#gutenb p.leftmarg  { text-indent: 0; text-align: left; margin-left: 2em }
+
+/* p.line s. im Abschnitt "Gedichte" */
+
+/* p.poem s. im Abschnitt "Gedichte" */
+
+div#gutenb p.right     { text-indent: 0; text-align: right }
+
+/* p.stars s. im Abschnitt "Diverses" */
+
+/* p.vers s. im Abschnitt "Gedichte" */
+
+
+
+/********************* Linien im Text ********************* ???/
+div#gutenb hr          { border: 1px solid; text-align: center !important; color: #999999;
+              margin-top: 0.5em; margin-bottom: 0.5em }
+
+div#gutenb hr.short    { margin-top: 1em; margin-bottom: 1em; width: 20% }
+
+div#gutenb hr.star     { margin-top: 1em; margin-bottom: 1em; width: 20% }
+
+
+
+/********************* Anmerkungen und Fußnoten. geändert. Re. *********************/
+div#gutenb span.tooltip { background-color: #f0f0f0 }
+
+/* Nur für's Testen, nicht kundengeeignet: auffälliger ist
+span.tooltip { color: #ff0000 }
+*/
+/* gelöscht und ersetzt mit neuem Code am 12-01-2011
+span.footnote { display:inline }
+span.footnote a:hover { background-color: #2B2E21; color:#fff }
+span.footnote a:link span, span.footnote a:visited span { display: none }
+span.footnote a:hover span.fntext { position: absolute; margin:20px; background-color: beige;
+          max-width:100%; padding: 5px 10px 5px 10px; border: 1px solid #C0C0C0;
+          font: normal 12px/14px arial; color: #000; text-align:left;
+          display: block; text-decoration:none; left:10px }
+*/
+
+div#gutenb     span.footnote a:link span.fntext, div#gutenb span.footnote a:visited span.fntext { display: none }
+div#gutenb     span.footnote a:hover span.fntext { position: absolute; margin:20px; background-color: beige;
+              max-width:100%; padding: 5px 10px 5px 10px; border: 1px solid #C0C0C0;
+              font: normal 0.9em serif; color: #000; text-align:left;
+              display: block; text-decoration:none; left:10px } 
+
+
+/********************* Absatzübergreifende Formatierung ********************/
+div#gutenb div.epigraph  { margin-left: 50%; margin-right: 5%; font-style: italic }
+
+div#gutenb div.footnote  { display:inline }
+
+div#gutenb div.impressum { display:none }
+
+div#gutenb div.motto p   { text-indent: 0; margin: 0 }
+
+div#gutenb div.navi      { text-align: center }
+
+div#gutenb div.titlepage { text-align: center }
+
+
+
+/********************* Tabellen  *********************/
+      /* Wird für mehrspaltige 0hmldir.xml gebraucht */
+div#gutenb table.dirtoc  { margin-left: auto; margin-right: auto; margin-top: 0.3em;
+                margin-bottom: 0.3em }
+      /* 0.4em Horizontal-Abstand zu Trennlinien, Folgezeilen um 1em eingerückt */
+div#gutenb table.dirtoc td { padding-top: 0; padding-bottom: 0; padding-left: 1.4em;
+                  padding-right: 0.4em; text-indent: -1em }
+
+      /* Notwendig, wenn jemand heimlichtückisch <div align="center"> davorsetzt: */
+div#gutenb table.left    { margin-left: 0; margin-right: auto }
+
+div#gutenb table.motto   { margin-left: 30%; margin-right: 0 }
+
+div#gutenb table.poem, div#gutenb table.vers  { margin-left: auto; margin-right: auto }
+
+/* table.real s. table.true */
+
+div#gutenb table.right   { margin-left: auto; margin-right: 0 }
+
+/*** geändert. Re. ***/
+div#gutenb table.toc     { display: none }
+div#gutenb table.toc td  { display: none }
+div#gutenb div.toc { display: none }
+div#gutenb p.toc { display: none }
+
+div#gutenb table.true, div#gutenb table.real { margin-left: auto; margin-right: auto; margin-top: 0.3em;
+                         margin-bottom: 0.3em }
+
+/* table.vers s. table.poem */
+
+
+
+/********************* Abbildungen *********************/
+      /* Für Bilder von Initialbuchstaben, unmittelbar nach <p> eingesetzt. Zwei Möglichkeiten:
+         <p><img src="bilder/b.gif" class="initial" alt="B"/>eispiel
+         oder, weniger schön:
+         <p><img src="bilder/b.gif" class="initial" alt=""/>Beispiel */
+div#gutenb img.initial   { float: left; margin-top: 0; margin-bottom: 0; margin-right: 0.3em; }
+
+div#gutenb img.left      { float: left; margin-top: 0.5em; margin-bottom: 0.5em;
+                margin-right: 0.5em; }
+
+div#gutenb img.right     { float: right; margin-top: 0.5em; margin-bottom: 0.5em;
+                margin-left: 0.5em }
+
+
+
+/********************* Gedichte *********************/
+div#gutenb div.poem    { margin-left: 20%; margin-right:20%; margin-bottom: 2em }
+
+div#gutenb div.poem blockquote { margin-left: 3em; margin-right: 3em; text-align: justify }
+
+div#gutenb div.vers    { text-indent: 0; text-align: left; margin-left: 2em;
+              margin-top: 1em; margin-bottom: 1em }
+
+div#gutenb div.vers p  { text-indent: 0; margin-top: 0; margin-bottom: 0 }
+
+div#gutenb p.line      { text-align: left; text-indent: 0; margin-top: 0;
+              margin-bottom: 0 }
+
+div#gutenb p.poem, div#gutenb p.vers  { text-align: left; text-indent: 0; margin: 1em 2em }
+
+
+
+/********************* Briefe *********************/
+/*** letters, use p.date for no collision with poem's <Hn> date ***/
+div#gutenb div.letter  { text-align: left; margin-left: 1.5em; margin-top: 1em;
+              margin-bottom: 1em }
+
+div#gutenb div.letter  { text-indent: 0 }
+
+div#gutenb p.address   { text-align: right; text-indent: 0; font-style: italic }
+
+div#gutenb p.date      { text-align: right; font-style: italic }
+
+
+
+/********************* Diverses. geändert Re. *********************/
+        /* Seitennummern */
+div#gutenb a.pageref         { display: none; }
+div#gutenb a.pageref:before  { display: none; }
+div#gutenb a.pageref:after   { display: none; }
+
+        /* definition list */
+div#gutenb dd          { margin-left: 2em }
+div#gutenb dl          { margin-left: 1.5em; margin-top: 1em; margin-bottom: 1em }
+div#gutenb dt          { font-weight: bold; margin-top: 4pt }
+
+div#gutenb del         { color: red }
+
+div#gutenb ins         { color: blue }
+
+        /* Zeile mit 3 Sternen: <p class="stars"><sup>*</sup> <sub>*</sub> <sup>*</sup></p> */
+div#gutenb p.stars     { text-indent: 0; text-align: center; font-size: 200%;
+              letter-spacing: 0.3em; margin-top: 0.5em; margin-bottom: 0 }
+
+div#gutenb q           { color: blue; font-style: italic }
+
+        /* Hochstellung ohne Vergößerung des Zeilenabstandes */
+div#gutenb sup         { font-size: 70%; vertical-align: text-top }
+div#gutenb sub         { font-size: 70%; vertical-align: text-bottom }
+
+        /* Formatierung von Brüchen */
+div#gutenb sup.fract   { font-size: 70%; vertical-align: text-top }
+div#gutenb sub.fract   { font-size: 70%; vertical-align: text-bottom }
+
+div#gutenb tt          { font-family: Courier }
+
+div#gutenb ul          { margin-top: 1em; margin-bottom: 1em }
+
+
+
+/********************* mit dem lang-Attribut markierte Tags. geändert. Re.
+div#gutenb [lang]	    { color: gray}
+div#gutenb [lang="fr"] { color: red }
+div#gutenb [lang="la"] { color: blue }
+div#gutenb [lang="en"] { color: green }
+div#gutenb [lang="it"] { color: violet }
+div#gutenb [lang="el"] { color: brown }
+***/
+
+
+/* ******************************************************************* */
+/*    Zusätzliche Definitionen ohne Layout für Text-Strukturierung     */
+/* ******************************************************************* */
+div#gutenb div.ballad    { }
+div#gutenb div.chapter   { }
+div#gutenb div.part      { }
+div#gutenb div.preface   { }
+div#gutenb div.section   { }
+div#gutenb div.toc       { }
+div#gutenb div.volume    { }
+div#gutenb h3.date       { }
+div#gutenb h3.subtitle   { }
+div#gutenb h3.translator { }
+div#gutenb h4.date       { }
+div#gutenb h4.pseudo     { }
+div#gutenb h4.publisher  { }
+div#gutenb h4.subtitle   { }
+div#gutenb h4.translator { }
+div#gutenb h5.date       { }
+div#gutenb h5.translator { }
