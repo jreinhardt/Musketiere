@@ -8,5 +8,8 @@ book2.pdf: book2.tex tex/book2-*.tex
 	xelatex book2.tex
 
 clean:
-	rm -f *.aux *.log *.pdf tex/*.aux
+	rm -f *.aux *.log *.toc *.pdf tex/*.aux tex/*.toc tex/*.log
+
+distclean:
+	rm -f tex/* tex_orig/* part1/* part2/* part3/*
 
