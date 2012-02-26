@@ -6,4 +6,8 @@ for i in {1..41}
 do
 diff -u tex_orig/book2-$i.tex tex/book2-$i.tex > diffs/book2-$i.diff
 done
-rm `find diffs -empty`
+for i in {1..75}
+do
+diff -u tex_orig/book3-$i.tex tex/book3-$i.tex > diffs/book3-$i.diff
+done
+rm -f `find diffs -empty`
