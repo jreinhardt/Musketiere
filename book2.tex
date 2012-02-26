@@ -1,10 +1,28 @@
-\documentclass{scrbook}
+\documentclass[9pt]{scrbook}
+\usepackage[german]{babel}
 \usepackage{graphicx}
 \usepackage{fontspec}
+\usepackage{geometry}
+
+%crown format
+\setlength{\paperwidth}{127mm}
+\setlength{\paperheight}{191mm}
+\typearea{9}
+
+\sloppy
+
 
 \begin{document}
+\frontmatter
 
+\pagestyle{empty}
 \include{tex/book2-1}
+
+\tableofcontents
+
+\mainmatter
+
+\pagestyle{plain}
 \include{tex/book2-2}
 \include{tex/book2-3}
 \include{tex/book2-4}

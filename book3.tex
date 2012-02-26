@@ -1,8 +1,29 @@
-\documentclass{scrbook}
+\documentclass[9pt]{scrbook}
+\usepackage[german]{babel}
 \usepackage{graphicx}
 \usepackage{fontspec}
+\usepackage{geometry}
+
+%crown format
+\setlength{\paperwidth}{127mm}
+\setlength{\paperheight}{191mm}
+\typearea{9}
+
+\sloppy
+
 
 \begin{document}
+\frontmatter
+
+\pagestyle{empty}
+
+%TODO: Titlepage
+
+\tableofcontents
+
+\mainmatter
+
+\pagestyle{plain}
 
 \include{tex/book3-2}
 \include{tex/book3-3}
