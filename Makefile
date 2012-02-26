@@ -1,5 +1,9 @@
-.PHONY: pdf clean
+.PHONY: pdf clean signatures
+
 pdf: book1.pdf book2.pdf book3.pdf
+
+signatures: book1.pdf book2.pdf book3.pdf
+	pdfbook --noautoscale true --suffix 'signatures' --signature 16 --batch book1.pdf book2.pdf book3.pdf
 
 book1.pdf: book1.tex tex/book1-*.tex
 	xelatex book1.tex
