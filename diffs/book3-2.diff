@@ -1,0 +1,8 @@
+--- tex_orig/book3-2.tex	2012-02-26 22:12:20.000000000 +0100
++++ tex/book3-2.tex	2012-02-26 22:30:32.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der Schatten Richelieus}
++\chapter{Der Schatten Richelieus}
+ 
+ In einem uns schon bekannten Gemache des Kardinalspalastes, an
+ einem Tische mit vergoldeten Ecken, der mit Papieren, Büchern und

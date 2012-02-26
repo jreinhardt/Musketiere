@@ -1,0 +1,21 @@
+--- tex_orig/book2-18.tex	2012-02-26 22:12:18.000000000 +0100
++++ tex/book2-18.tex	2012-02-26 22:34:25.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XVII.}
+-
+-Eheliche Scene.
++\chapter{Eheliche Scene.}
+ 
+ Richelieu kam, wie es Athos vorhergesehen hatte, alsbald herab. Er
+ öffnete die Thür der Stube, in welche die Musketiere eingetreten
+@@ -166,7 +164,10 @@
+ Vaters, das Verbrechen, welches Ihr zu begehen versucht, oder
+ begangen habt, ist Euer letztes.«
+ 
++\begin{center}
+ \includegraphics{musket-2/bilder/0153.jpg}
++\end{center}
++
+ »Herr d'Artagnan hat mich grausam verletzt,« sagte Mylady mit
+ dumpfer Stimme; »Herr d'Artagnan muß sterben.« »In der That, ist es
+ möglich. Euch zu verletzen, Madame?« sprach Athos lachend; »er hat

@@ -1,0 +1,8 @@
+--- tex_orig/book3-9.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-9.tex	2012-02-26 22:30:39.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Herr Porthos du Vallon de Bracieux de Pierrefonds}
++\chapter{Herr Porthos du Vallon de Bracieux de Pierrefonds}
+ 
+ D'Artagnan, der es bereits gewußt hatte, daß Porthos mit seinem
+ Familiennamen du Vallon hieß, erfuhr durch die Erkundigungen, die

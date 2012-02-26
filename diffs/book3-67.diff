@@ -1,0 +1,8 @@
+--- tex_orig/book3-67.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-67.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Erkenntlichkeit der Königin Anna}
++\chapter{Die Erkenntlichkeit der Königin Anna}
+ 
+ Athos traf keineswegs auf so viele Schwierigkeiten, wie er gedacht
+ hatte, um bis zur Königin Anna zu gelangen; schon bei dem ersten

@@ -1,0 +1,21 @@
+--- tex_orig/book2-10.tex	2012-02-26 22:12:17.000000000 +0100
++++ tex/book2-10.tex	2012-02-26 22:33:38.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{IX.}
+-
+-Das Geheimniß Myladys.
++\chapter{Das Geheimniß Myladys.}
+ 
+ D'Artagnan hatte das Hotel verlassen, statt sogleich zu Ketty
+ hinaufzugehen, um hier die Stunde seiner Unterredung mit Mylady
+@@ -218,7 +216,10 @@
+ spitziger Klinge heraus und stand mit einem Sprunge wieder vor
+ d'Artagnan, welcher sitzen geblieben war.
+ 
++\begin{center}
+ \includegraphics{musket-2/bilder/0079.jpg}
++\end{center}
++
+ Obgleich der junge Mann viel Muth besaß, erschrak er doch vor
+ diesem verstörten Gesichte, diesen hervortretenden Augen, diesen
+ bleichen Wangen, diesen blutigen Lippen; er stand auf und wich

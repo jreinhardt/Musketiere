@@ -1,0 +1,8 @@
+--- tex_orig/book3-19.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-19.tex	2012-02-26 22:30:30.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Fähre der Oise}
++\chapter{Die Fähre der Oise}
+ 
+ Als Rudolf seinen Beschützer aus dem Auge verlor, den er vor der
+ königlichen Gruft zurückgelassen und noch mit den Blicken verfolgt

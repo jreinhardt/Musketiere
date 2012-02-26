@@ -1,0 +1,8 @@
+--- tex_orig/book3-41.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-41.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Man bekommt Nachrichten über Athos und Aramis}
++\chapter{Man bekommt Nachrichten über Athos und Aramis}
+ 
+ D'Artagnan war geradeswegs nach den Stallungen gegangen. Der Tag
+ brach eben an; er erkannte sein und Porthos' Pferd, die an einer

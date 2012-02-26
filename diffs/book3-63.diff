@@ -1,0 +1,8 @@
+--- tex_orig/book3-63.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-63.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Botschafter}
++\chapter{Die Botschafter}
+ 
+ Die zwei Freunde begaben sich sogleich auf den Weg, und ritten über
+ den steilen Abhang der Vorstadt hinab, als sie aber unten ankamen,

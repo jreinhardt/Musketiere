@@ -1,0 +1,8 @@
+--- tex_orig/book3-61.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-61.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Wie Mousqueton, nachdem er der Gefahr entronnen war, gebraten zu werden, beinahe aufgegessen worden wäre}
++\chapter{Wie Mousqueton, nachdem er der Gefahr entronnen war, gebraten zu werden, beinahe aufgegessen worden wäre}
+ 
+ Auf den soeben mitgeteilten schrecklichen Vorfall trat in der Barke
+ ein langes, tiefes Stillschweigen ein; der Mond, der auf ein

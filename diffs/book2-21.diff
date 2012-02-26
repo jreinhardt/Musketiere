@@ -1,0 +1,10 @@
+--- tex_orig/book2-21.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-21.tex	2012-02-26 22:27:59.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XX.}
+-
+-Familien-Angelegenheit.
++\chapter{Familien-Angelegenheit.}
+ 
+ Athos hatte das rechte Wort gefunden: man mußte aus der
+ Angelegenheit Buckinghams eine \emph{Familien-Angelegenheit}

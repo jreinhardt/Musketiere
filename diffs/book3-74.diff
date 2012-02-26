@@ -1,0 +1,8 @@
+--- tex_orig/book3-74.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-74.tex	2012-02-26 22:30:36.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Wie man etwas mit einer Feder und einer Drohung viel schneller und besser ausrichtet, als mit dem Schwerte und der Ergebenheit.}
++\chapter{Wie man etwas mit einer Feder und einer Drohung viel schneller und besser ausrichtet, als mit dem Schwerte und der Ergebenheit.}
+ 
+ D'Artagnan wußte aus der Mythologie, die er wohl kannte, daß die
+ Gelegenheit nur ein einziges Haarbüschel habe, bei dem man sie

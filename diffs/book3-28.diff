@@ -1,0 +1,8 @@
+--- tex_orig/book3-28.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-28.tex	2012-02-26 22:30:31.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Oheim und Neffe}
++\chapter{Oheim und Neffe}
+ 
+ Lord Winter ward an der Türe von seinem Pferde und einem Diener
+ erwartet; er ritt nun ganz gedankenvoll seiner Wohnung zu und

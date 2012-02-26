@@ -1,0 +1,10 @@
+--- tex_orig/book2-3.tex	2012-02-26 22:12:17.000000000 +0100
++++ tex/book2-3.tex	2012-02-26 22:25:19.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{II.}
+-
+-Mylady.
++\chapter{Mylady.}
+ 
+ D'Artagnan war Mylady gefolgt, ohne daß er von ihr bemerkt wurde.
+ Er sah sie in den Wagen steigen und hörte sie dem Kutscher Befehl

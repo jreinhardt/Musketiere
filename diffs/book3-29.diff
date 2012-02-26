@@ -1,0 +1,8 @@
+--- tex_orig/book3-29.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-29.tex	2012-02-26 22:30:31.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Vaterschaft}
++\chapter{Die Vaterschaft}
+ 
+ Während jener furchtbare Auftritt bei Lord Winter stattfand, saß
+ Athos neben dem Fenster seines Zimmers, den Ellbogen auf einen

@@ -1,0 +1,10 @@
+--- tex_orig/book2-28.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-28.tex	2012-02-26 22:28:10.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXVII.}
+-
+-Vierter Tag der Gefangenschaft.
++\chapter{Vierter Tag der Gefangenschaft.}
+ 
+ Als Felton am andern Tage bei Mylady eintrat, stand sie auf einem
+ Stuhle und hielt einen, mittelst mehrerer in Streifen zerrissener

@@ -1,0 +1,10 @@
+--- tex_orig/book2-17.tex	2012-02-26 22:12:18.000000000 +0100
++++ tex/book2-17.tex	2012-02-26 22:27:49.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XVI.}
+-
+-Von dem Nutzen der Ofenröhren.
++\chapter{Von dem Nutzen der Ofenröhren.}
+ 
+ Offenbar hatten unsere drei Freunde, ohne es zu vermuthen und
+ einzig und allein durch ihren ritterlichen, abenteuerlichen

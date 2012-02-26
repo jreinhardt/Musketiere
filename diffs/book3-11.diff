@@ -1,0 +1,8 @@
+--- tex_orig/book3-11.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-11.tex	2012-02-26 22:30:30.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Unterhaltungen des Herrn Herzogs von Beaufort in der Turmstube zu Vincennes}
++\chapter{Die Unterhaltungen des Herrn Herzogs von Beaufort in der Turmstube zu Vincennes}
+ 
+ Der Gefangene, der dem Kardinal so viel Furcht erweckte, ahnte
+ nichts von all dem Schrecken, den man seinetwegen im Palais-Royal

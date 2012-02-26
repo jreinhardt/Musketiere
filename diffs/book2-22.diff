@@ -1,0 +1,21 @@
+--- tex_orig/book2-22.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-22.tex	2012-02-26 22:34:36.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXI.}
+-
+-Widerwärtigkeiten.
++\chapter{Widerwärtigkeiten.}
+ 
+ Außer sich vor Zorn, auf dem Verdecke wie eine Löwin schnaubend,
+ die man einschifft, war Mylady mittlerweile versucht gewesen, sich
+@@ -258,7 +256,10 @@
+ bot Mylady seine Hand. Sie stützte sich darauf und stieg mit
+ ziemlich viel Ruhe aus.
+ 
++\begin{center}
+ \includegraphics{musket-2/bilder/0205.jpg}
++\end{center}
++
+ »Es wird mir immer klarer,« sprach Mylady, indem sie um sich
+ schaute und ihre Augen dann mit dem anmuthigsten Lächeln der Welt
+ auf den jungen Officier richtete, es wird mir immer klarer, daß ich

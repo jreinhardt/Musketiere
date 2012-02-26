@@ -1,0 +1,8 @@
+--- tex_orig/book3-58.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-58.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Konversation}
++\chapter{Konversation}
+ 
+ Einige Minuten herrschte reglose Stille. Dann begann d'Artagnan von
+ neuem: »Mein Herr, mich dünkt, daß Ihr den Anzug fast ebenso

@@ -1,0 +1,8 @@
+--- tex_orig/book3-55.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-55.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Remember}
++\chapter{Remember}
+ 
+ Als der König sein Beichtbekenntnis abgelegt und das Abendmahl
+ empfangen hatte, verlangte er seine Kinder zu sehen. Es schlug zehn

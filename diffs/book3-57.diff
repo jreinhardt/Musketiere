@@ -1,0 +1,8 @@
+--- tex_orig/book3-57.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-57.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Das Haus Cromwells}
++\chapter{Das Haus Cromwells}
+ 
+ Es war wirklich Mordaunt, dem d'Artagnan nachgegangen war, ohne daß
+ er ihn erkannt hatte. Als er in das Haus trat, legte er seine Larve

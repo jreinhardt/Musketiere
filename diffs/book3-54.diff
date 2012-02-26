@@ -1,0 +1,8 @@
+--- tex_orig/book3-54.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-54.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Handwerker}
++\chapter{Die Handwerker}
+ 
+ Gegen Mitternacht vernahm Karl ein starkes Geräusch unter seinem
+ Fenster, das waren die Hammerschläge und Beilhiebe, das Scharren

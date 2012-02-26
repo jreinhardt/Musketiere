@@ -1,0 +1,8 @@
+--- tex_orig/book3-27.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-27.tex	2012-02-26 22:30:31.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Wie die Unglücklichen manchmal den Zufall für die Vorsehung halten}
++\chapter{Wie die Unglücklichen manchmal den Zufall für die Vorsehung halten}
+ 
+ »Nun, Madame?« sprach de Winter, als die Königin ihre Diener
+ weggeschickt hatte. »Was ich voraussah, das geschieht, Mylord.« »Er

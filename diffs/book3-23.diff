@@ -1,0 +1,8 @@
+--- tex_orig/book3-23.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-23.tex	2012-02-26 22:30:31.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Grimaud spricht}
++\chapter{Grimaud spricht}
+ 
+ Grimaud war allein bei dem Scharfrichter zurückgeblieben; der Wirt
+ war fortgeeilt, um Hilfe zu holen, und die Wirtin betete. Nach

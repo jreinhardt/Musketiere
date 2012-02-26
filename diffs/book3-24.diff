@@ -1,0 +1,8 @@
+--- tex_orig/book3-24.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-24.tex	2012-02-26 22:30:31.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Am Tage vor der Schlacht}
++\chapter{Am Tage vor der Schlacht}
+ 
+ Rudolf ward aus seinen düsteren Betrachtungen durch den Wirt
+ gezogen, der rasch in das Zimmer trat, worin der eben erzählte

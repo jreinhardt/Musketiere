@@ -1,0 +1,8 @@
+--- tex_orig/book3-49.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-49.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{D'Artagnan ersinnt einen Plan}
++\chapter{D'Artagnan ersinnt einen Plan}
+ 
+ Mit einbrechender Nacht kam man in Tirsk an. Die vier Freunde
+ schienen sich ganz und gar nicht um die Vorsichtsmaßregeln zu

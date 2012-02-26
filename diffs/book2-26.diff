@@ -1,0 +1,10 @@
+--- tex_orig/book2-26.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-26.tex	2012-02-26 22:28:07.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXV.}
+-
+-Zweiter Tag der Gefangenschaft.
++\chapter{Zweiter Tag der Gefangenschaft.}
+ 
+ Mylady träumte, sie habe d'Artagnan endlich erwischt und wohne
+ seiner Hinrichtung bei; der Anblick seines unter dem Henkerbeil

@@ -1,0 +1,10 @@
+--- tex_orig/book2-13.tex	2012-02-26 22:12:18.000000000 +0100
++++ tex/book2-13.tex	2012-02-26 22:27:13.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XII.}
+-
+-Eine furchtbare Erscheinung.
++\chapter{Eine furchtbare Erscheinung.}
+ 
+ Richelieu stützte seinen Ellbogen auf sein Manuscript, seine Wange
+ auf seine Hand und schaute d'Artagnan einen Augenblick an. Niemand

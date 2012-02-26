@@ -1,0 +1,10 @@
+--- tex_orig/book2-16.tex	2012-02-26 22:12:18.000000000 +0100
++++ tex/book2-16.tex	2012-02-26 22:27:48.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XV.}
+-
+-Die Wirtschaft zum Rothen Taubenschlag.
++\chapter{Die Wirtschaft zum Rothen Taubenschlag.}
+ 
+ Kaum in dem Lager angelangt, wollte der König, welcher so große
+ Eile hatte, dem Feinde gegenüber zu stehen, und den Haß des

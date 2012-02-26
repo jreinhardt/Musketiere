@@ -1,0 +1,8 @@
+--- tex_orig/book3-60.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-60.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Verhängnis}
++\chapter{Verhängnis}
+ 
+ D'Artagnan hatte jene Worte kaum ausgesprochen, so ließ sich auch
+ wirklich ein Pfeifen auf der Feluke hören, die sich schon

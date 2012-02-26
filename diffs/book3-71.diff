@@ -1,0 +1,8 @@
+--- tex_orig/book3-71.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-71.tex	2012-02-26 22:30:36.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Gefängnisse des Herrn von Mazarin}
++\chapter{Die Gefängnisse des Herrn von Mazarin}
+ 
+ Die zwei improvisierten Soldaten schritten gravitätisch hinter dem
+ Kammerdiener her; er schloß eine Türe der Vorhalle auf, dann eine

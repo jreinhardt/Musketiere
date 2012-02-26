@@ -1,0 +1,8 @@
+--- tex_orig/book3-45.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-45.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Edelleute}
++\chapter{Die Edelleute}
+ 
+ Während Mordaunt auf dem Wege nach Cromwells Gezelte war, führten
+ d'Artagnan und Porthos ihre Gefangenen in das Haus, das ihnen in

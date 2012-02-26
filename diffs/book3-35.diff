@@ -1,0 +1,8 @@
+--- tex_orig/book3-35.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-35.tex	2012-02-26 22:30:32.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der Aufstand wird zur Empörung}
++\chapter{Der Aufstand wird zur Empörung}
+ 
+ Das Kabinett, in welches man d'Artagnan und Porthos eintreten ließ,
+ war von dem Salon, worin sich die Königin befand, nur durch

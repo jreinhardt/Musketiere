@@ -1,0 +1,8 @@
+--- tex_orig/book3-47.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-47.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Wo bewiesen wird, daß große Herzen in den schwierigsten Lagen nie den Mut, und gute Mägen nie den Appetit verlieren}
++\chapter{Wo bewiesen wird, daß große Herzen in den schwierigsten Lagen nie den Mut, und gute Mägen nie den Appetit verlieren}
+ 
+ Die kleine Schar sprengte, ohne daß man ein Wort wechselte oder
+ sich umblickte, im schnellsten Galopp von hinnen, ritt durch einen

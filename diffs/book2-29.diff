@@ -1,0 +1,10 @@
+--- tex_orig/book2-29.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-29.tex	2012-02-26 22:28:11.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXVIII.}
+-
+-Fünfter Tag der Gefangenschaft.
++\chapter{Fünfter Tag der Gefangenschaft.}
+ 
+ Mylady war bereits zu einem halben Triumph gelangt und der Erfolg
+ verdoppelte ihre Kräfte.

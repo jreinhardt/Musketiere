@@ -1,0 +1,10 @@
+--- tex_orig/book2-12.tex	2012-02-26 22:12:18.000000000 +0100
++++ tex/book2-12.tex	2012-02-26 22:27:06.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XI.}
+-
+-Eine holdselige Erscheinung.
++\chapter{Eine holdselige Erscheinung.}
+ 
+ Zur bestimmten Stunde waren die vier Freunde bei Athos versammelt.
+ Ihre Unruhe, ihre Bangigkeit in Betreff der Equipirung war völlig

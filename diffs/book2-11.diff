@@ -1,0 +1,12 @@
+--- tex_orig/book2-11.tex	2012-02-26 22:12:17.000000000 +0100
++++ tex/book2-11.tex	2012-02-26 22:27:01.000000000 +0100
+@@ -1,7 +1,5 @@
+-\subsubsection{X.}
+-
+-Athos, ohne sich die geringste Mühe zu geben, seine Equipirung
+-fand.
++\chapter{Athos, ohne sich die geringste Mühe zu geben, seine Equipirung
++fand.}
+ 
+ D'Artagnan war in so gewaltiger Aufregung, daß er, ohne sich im
+ Geringsten darum zu bekümmern, was aus Ketty wurde, in größter Eile

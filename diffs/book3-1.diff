@@ -1,0 +1,8 @@
+--- tex_orig/book3-1.tex	2012-02-26 22:12:20.000000000 +0100
++++ tex/book3-1.tex	2012-02-26 22:30:31.000000000 +0100
+@@ -1,4 +1,4 @@
+-\begin{center}\rule{3in}{0.4pt}\end{center}
++\chapter{center}\rule{3in}{0.4pt}\end{center}
+ 
+ Inhalt
+ 

@@ -1,0 +1,8 @@
+--- tex_orig/book3-56.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-56.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der maskierte Mann}
++\chapter{Der maskierte Mann}
+ 
+ Wiewohl es erst vier Uhr abends war, so war es doch schon finster
+ und der Schnee fiel dicht und eisig. Aramis kam gleichfalls nach

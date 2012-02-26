@@ -1,0 +1,8 @@
+--- tex_orig/book3-30.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-30.tex	2012-02-26 22:30:32.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Abermals eine Königin, welche Hilfe anspricht}
++\chapter{Abermals eine Königin, welche Hilfe anspricht}
+ 
+ Athos ließ sogleich am Morgen Aramis in Kenntnis setzen und übergab
+ seinen Brief Blaisois, dem einzigen Diener, der ihm geblieben war.

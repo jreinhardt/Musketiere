@@ -1,0 +1,8 @@
+--- tex_orig/book3-68.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-68.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Das Königtum unter Herrn von Mazarin}
++\chapter{Das Königtum unter Herrn von Mazarin}
+ 
+ Die Verhaftung von Athos machte gar kein Aufsehen, verursachte gar
+ kein Ärgernis, und war beinahe unbekannt geblieben. Sie störte

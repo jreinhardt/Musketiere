@@ -1,0 +1,8 @@
+--- tex_orig/book3-69.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-69.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Kopf und Arm}
++\chapter{Kopf und Arm}
+ 
+ Nunmehr begeben wir uns von der Orangerie nach dem Jagdpavillon. Im
+ Erdgeschosse dieses Pavillons saßen Porthos und d'Artagnan, und

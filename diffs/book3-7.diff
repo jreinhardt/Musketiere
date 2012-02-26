@@ -1,0 +1,8 @@
+--- tex_orig/book3-7.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-7.tex	2012-02-26 22:30:36.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{D'Artagnan ist in Bedrängnis, eine alte Bekanntschaft kommt ihm zu Hilfe}
++\chapter{D'Artagnan ist in Bedrängnis, eine alte Bekanntschaft kommt ihm zu Hilfe}
+ 
+ D'Artagnan kehrte also ganz gedankenvoll in sein Gasthaus in der
+ Rue Tiquetonne zurück, fühlte ein ziemlich lebhaftes Vergnügen, den

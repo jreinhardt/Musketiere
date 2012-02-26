@@ -1,0 +1,8 @@
+--- tex_orig/book3-15.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-15.tex	2012-02-26 22:30:30.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Befreiung}
++\chapter{Die Befreiung}
+ 
+ Herr von Beaufort, dem das Innere des Palais-Royal und die
+ Verhältnisse der Königin und des Kardinals so gut bekannt waren,

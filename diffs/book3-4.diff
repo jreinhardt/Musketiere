@@ -1,0 +1,8 @@
+--- tex_orig/book3-4.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-4.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Zwei alte Feinde}
++\chapter{Zwei alte Feinde}
+ 
+ D'Artagnan kam in der Bastille an, als es eben halb neun Uhr
+ schlug. Er ließ sich bei dem Gouverneur anmelden, und als dieser

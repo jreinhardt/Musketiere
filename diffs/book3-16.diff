@@ -1,0 +1,8 @@
+--- tex_orig/book3-16.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-16.tex	2012-02-26 22:30:30.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{D'Artagnan trifft zur rechten Zeit ein}
++\chapter{D'Artagnan trifft zur rechten Zeit ein}
+ 
+ D´Artagnan behob in Blois die Geldsumme, die Mazarin bei dem
+ Wunsche, ihn wieder zu sehen, ihm für künftige Dienste zu schicken

@@ -1,0 +1,8 @@
+--- tex_orig/book3-17.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-17.tex	2012-02-26 22:30:30.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Place-Royale}
++\chapter{Place-Royale}
+ 
+ Athos nahm zuerst das Wort; er tat der alten, so oft erprobten
+ Freundschaft Erwähnung, die die vier Edelleute bisher so fest

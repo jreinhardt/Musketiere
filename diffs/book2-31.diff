@@ -1,0 +1,21 @@
+--- tex_orig/book2-31.tex	2012-02-26 22:12:20.000000000 +0100
++++ tex/book2-31.tex	2012-02-26 22:34:51.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXX.}
+-
+-Die Flucht.
++\chapter{Die Flucht.}
+ 
+ Myladys Wunde war, wie Lord Winter gedacht hatte, durchaus nicht
+ gefährlich. Sobald sie sich mit der für ihre Bedienung bestimmten
+@@ -171,7 +169,10 @@
+ auf der Stirne, unter furchtbarer Angst bei jeder Bewegung, die sie
+ in der Flur hörte.
+ 
++\begin{center}
+ \includegraphics{musket-2/bilder/0293.jpg}
++\end{center}
++
+ Es gibt Stunden, welche ein Jahr dauern.
+ 
+ Nach Verlauf einer Stunde klopfte Felton abermals. Mylady sprang

@@ -1,0 +1,8 @@
+--- tex_orig/book3-43.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-43.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der Rächer}
++\chapter{Der Rächer}
+ 
+ Alle vier traten in das Gezelt; es war noch kein Plan gefaßt, das
+ mußte erst geschehen. Der König sank in einen Lehnstuhl und

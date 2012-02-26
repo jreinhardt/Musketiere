@@ -1,0 +1,8 @@
+--- tex_orig/book3-53.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-53.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{White-Hall}
++\chapter{White-Hall}
+ 
+ Das Parlament verurteilte Karl Stuart zum Tode, wie es sich leicht
+ voraussehen ließ. Ein Gerichtsverfahren dieser Art ist beinahe

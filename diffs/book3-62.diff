@@ -1,0 +1,8 @@
+--- tex_orig/book3-62.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-62.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Rückkehr}
++\chapter{Die Rückkehr}
+ 
+ Athos und Aramis hatten sich auf den Weg begeben, den ihnen
+ d'Artagnan angedeutet, und sich nach Kräften beeilt. Wenn sie schon

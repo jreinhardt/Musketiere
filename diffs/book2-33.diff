@@ -1,0 +1,10 @@
+--- tex_orig/book2-33.tex	2012-02-26 22:12:20.000000000 +0100
++++ tex/book2-33.tex	2012-02-26 22:28:23.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXXII.}
+-
+-In Frankreich.
++\chapter{In Frankreich.}
+ 
+ Als König Carl~I. von England den Tod des Herzogs erfuhr, fürchtete
+ er vor Allem, die Rocheller könnten durch diese furchtbare

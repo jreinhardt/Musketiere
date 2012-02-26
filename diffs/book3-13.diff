@@ -1,0 +1,8 @@
+--- tex_orig/book3-13.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-13.tex	2012-02-26 22:30:30.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Was die Pasteten vom Nachfolger des Vaters Marteau enthalten haben}
++\chapter{Was die Pasteten vom Nachfolger des Vaters Marteau enthalten haben}
+ 
+ Eine halbe Stunde darauf kam la Ramée froh und wohlgemut zurück,
+ wie ein Mensch, der gut gegessen und zumal gut getrunken hat. Er

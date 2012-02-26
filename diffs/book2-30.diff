@@ -1,0 +1,10 @@
+--- tex_orig/book2-30.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-30.tex	2012-02-26 22:28:17.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXIX.}
+-
+-Ein Vorwurf zu einer klassischen Tragödie.
++\chapter{Ein Vorwurf zu einer klassischen Tragödie.}
+ 
+ Nach einem kurzen Stillschweigen, während dessen Mylady den jungen
+ Offizier, der ihr zuhörte, zu beobachten beschäftigt war, fuhr sie

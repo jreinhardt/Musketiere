@@ -1,0 +1,21 @@
+--- tex_orig/book2-39.tex	2012-02-26 22:12:20.000000000 +0100
++++ tex/book2-39.tex	2012-02-26 22:35:17.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXXVIII.}
+-
+-Die Hinrichtung.
++\chapter{Die Hinrichtung.}
+ 
+ Es war um die Mitternachtsstunde. Der in seiner Abnahme
+ sichelförmige und durch die letzten Spuren des Gewitters blutig
+@@ -206,7 +204,10 @@
+ sich nahe am Ufer befand, sprang sie leicht zu Boden und ergriff
+ die Flucht.
+ 
++\begin{center}
+ \includegraphics{musket-2/bilder/0371.jpg}
++\end{center}
++
+ Aber der Boden war feucht: oben auf der Böschung angelangt, glitt
+ sie aus und fiel auf ihre Kniee nieder.
+ 

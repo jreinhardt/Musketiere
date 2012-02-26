@@ -1,0 +1,8 @@
+--- tex_orig/book3-51.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-51.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{London}
++\chapter{London}
+ 
+ Als das Gestampfe der Pferde in der Ferne verhallt war, ging
+ d'Artagnan wieder zum Ufer des kleinen Baches und durchmaß die

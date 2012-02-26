@@ -1,0 +1,8 @@
+--- tex_orig/book3-25.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-25.tex	2012-02-26 22:30:31.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der Brief Karls des Ersten}
++\chapter{Der Brief Karls des Ersten}
+ 
+ Nun muß der Leser mit uns über die Seine setzen und uns bis zur
+ Pforte des Karmeliterinnenklosters in der Straße Saint-Jacques

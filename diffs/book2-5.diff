@@ -1,0 +1,10 @@
+--- tex_orig/book2-5.tex	2012-02-26 22:12:17.000000000 +0100
++++ tex/book2-5.tex	2012-02-26 22:25:40.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{VI.}
+-
+-Ein Procuratorsmahl.
++\chapter{Ein Procuratorsmahl.}
+ 
+ Das Duell, bei welchem Porthos eine so glänzende Rolle gespielt
+ hatte, ließ ihn indessen das Mittagsmahl nicht vergessen, wozu er

@@ -1,0 +1,8 @@
+--- tex_orig/book3-31.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-31.tex	2012-02-26 22:30:32.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Wo bewiesen ist, daß die erste Regung stets die beste sei}
++\chapter{Wo bewiesen ist, daß die erste Regung stets die beste sei}
+ 
+ Die drei Kavaliere begaben sich auf die, Straße nach der Normandie,
+ diese Straße, die ihnen so wohlbekannt war, und die bei Athos und

@@ -1,0 +1,8 @@
+--- tex_orig/book3-36.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-36.tex	2012-02-26 22:30:32.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Das Unglück gibt Gedächtnis}
++\chapter{Das Unglück gibt Gedächtnis}
+ 
+ Wie nun Broussel am nächsten Morgen in einer großen Kutsche seinen
+ Einzug in Paris hielt, wo ihm sein Sohn Louvieres zur Seite saß,

@@ -1,0 +1,8 @@
+--- tex_orig/book3-6.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-6.tex	2012-02-26 22:30:36.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Gascogner und Italiener}
++\chapter{Gascogner und Italiener}
+ 
+ Mittlerweile war der Kardinal in sein Kabinett zurückgekehrt. Wie
+ er nun allein war, öffnete er die Türe des Vorgemachs. D'Artagnan

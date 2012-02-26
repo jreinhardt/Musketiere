@@ -1,0 +1,8 @@
+--- tex_orig/book3-33.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-33.tex	2012-02-26 22:30:32.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der Turm Saint-Jacques la Boucherie}
++\chapter{Der Turm Saint-Jacques la Boucherie}
+ 
+ Herr von Gondy hatte um drei Viertel auf sechs Uhr alle seine Gänge
+ gemacht, und war in den erzbischöflichen Palast zurückgekehrt. Um

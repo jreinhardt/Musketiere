@@ -1,0 +1,10 @@
+--- tex_orig/book2-19.tex	2012-02-26 22:12:18.000000000 +0100
++++ tex/book2-19.tex	2012-02-26 22:27:52.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XVIII.}
+-
+-Die Bastei Saint Gervais.
++\chapter{Die Bastei Saint Gervais.}
+ 
+ Als d'Artagnan bei den drei Freunden eintraf, fand er sie in
+ demselben Zimmer versammelt. Athos dachte nach. Porthos kräuselte

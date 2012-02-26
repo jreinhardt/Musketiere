@@ -1,0 +1,10 @@
+--- tex_orig/book2-25.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-25.tex	2012-02-26 22:28:05.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXIV.}
+-
+-Erster Tag der Gefangenschaft.
++\chapter{Erster Tag der Gefangenschaft.}
+ 
+ Kehren wir zu Mylady zurück, die uns ein Blick auf die Küste
+ Frankreichs eins Weile aus dem Gesichte verlieren ließ.

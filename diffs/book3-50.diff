@@ -1,0 +1,8 @@
+--- tex_orig/book3-50.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-50.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Partie Landsknecht}
++\chapter{Die Partie Landsknecht}
+ 
+ D'Artagnan und Porthos mit ihren Schwertern, und Athos und Aramis
+ mit den im Wams verborgenen Dolchen, begaben sich nach dem Hause,

@@ -1,0 +1,8 @@
+--- tex_orig/book3-66.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-66.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Straße nach der Picardie}
++\chapter{Die Straße nach der Picardie}
+ 
+ Athos und Aramis, welche wohl in Paris sehr in Sicherheit waren,
+ verhehlten sich die überaus großen Gefahren nicht, in die sie sich

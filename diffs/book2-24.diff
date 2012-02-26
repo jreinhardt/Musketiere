@@ -1,0 +1,10 @@
+--- tex_orig/book2-24.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-24.tex	2012-02-26 22:28:04.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXIII.}
+-
+-Offizier!
++\chapter{Offizier!}
+ 
+ Richelieu erwartete mittlerweile Kunde aus England.
+ 

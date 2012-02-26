@@ -1,0 +1,8 @@
+--- tex_orig/book3-37.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-37.tex	2012-02-26 22:30:32.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Zusammenkunft}
++\chapter{Die Zusammenkunft}
+ 
+ An demselben Morgen befand sich d'Artagnan in Porthos' Zimmer und
+ lag zu Bette. Diese Gewohnheit hatten die zwei Freunde seit den

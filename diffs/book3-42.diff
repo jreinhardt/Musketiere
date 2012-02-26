@@ -1,0 +1,8 @@
+--- tex_orig/book3-42.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-42.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der Schotte hält auf seinen Eidschwur wenig,verkauft für einen Heller seinen König}
++\chapter{Der Schotte hält auf seinen Eidschwur wenig,verkauft für einen Heller seinen König}
+ 
+ Nun müssen wir unsere Leser den »Standard« – nicht nach London,
+ wohin d'Artagnan und Porthos zu steuern glaubten, sondern nach

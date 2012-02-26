@@ -1,0 +1,21 @@
+--- tex_orig/book2-14.tex	2012-02-26 22:12:18.000000000 +0100
++++ tex/book2-14.tex	2012-02-26 22:34:06.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XIII.}
+-
+-Die Belagerung von La Rochelle.
++\chapter{Die Belagerung von La Rochelle.}
+ 
+ Die Belagerung von La Rochelle war eines der bedeutendsten
+ Ereignisse unter der Regierung Ludwigs XIII.
+@@ -341,7 +339,10 @@
+ die Brust durchbohrt; der andere war wohlbehalten und setzte seinen
+ Lauf nach dem Lager fort.
+ 
++\begin{center}
+ \includegraphics{musket-2/bilder/0117.jpg}
++\end{center}
++
+ D'Artagnan wollte seinen Gefährten nicht so verlassen und beugte
+ sich über ihn herab, um ihn aufzuheben; aber in diesem Augenblicke
+ wurden zwei Schüsse abgefeuert; eine Kugel zerschmetterte dem

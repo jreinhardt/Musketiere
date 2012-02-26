@@ -1,0 +1,10 @@
+--- tex_orig/book2-23.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-23.tex	2012-02-26 22:28:02.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXII.}
+-
+-Plauderei eines Bruders und einer Schwester.
++\chapter{Plauderei eines Bruders und einer Schwester.}
+ 
+ Während Lord Winter die Thüre schloß, einen Laden aufstieß und
+ einen Stuhl näher zu dem seiner Schwägerin rückte, senkte Mylady

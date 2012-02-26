@@ -1,0 +1,8 @@
+--- tex_orig/book3-14.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-14.tex	2012-02-26 22:30:30.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Ein Abenteuer der Marie Michon}
++\chapter{Ein Abenteuer der Marie Michon}
+ 
+ Um dieselbe Zeit kamen zwei Männer zu Pferde mit einem Bedienten
+ nach Paris und ritten durch die Faubourg Saint-Marcel. Diese beiden

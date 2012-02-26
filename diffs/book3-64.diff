@@ -1,0 +1,8 @@
+--- tex_orig/book3-64.tex	2012-02-26 22:12:25.000000000 +0100
++++ tex/book3-64.tex	2012-02-26 22:30:35.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die drei Leutnants des Generalissimus.}
++\chapter{Die drei Leutnants des Generalissimus.}
+ 
+ Wie Athos und Aramis übereingekommen und in der abgemachten Ordnung
+ begaben sie sich von dem Gasthause »Kaiser Karl der Große« nach dem

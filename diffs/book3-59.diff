@@ -1,0 +1,8 @@
+--- tex_orig/book3-59.tex	2012-02-26 22:12:24.000000000 +0100
++++ tex/book3-59.tex	2012-02-26 22:30:34.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Feluke »Der Blitz«}
++\chapter{Die Feluke »Der Blitz«}
+ 
+ D'Artagnan hatte richtig geraten, Mordaunt, der keine Zeit zu
+ verlieren hatte, hatte auch keine verloren. Ihm war die

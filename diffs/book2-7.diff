@@ -1,0 +1,10 @@
+--- tex_orig/book2-7.tex	2012-02-26 22:12:17.000000000 +0100
++++ tex/book2-7.tex	2012-02-26 22:26:08.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{VI.}
+-
+-Worin von der Equipirung von Aramis und Porthos die Rede ist.
++\chapter{Worin von der Equipirung von Aramis und Porthos die Rede ist.}
+ 
+ Seitdem jeder der vier Freunde seiner Equipirung nachjagte, fand
+ keine bestimmte Zusammenkunft mehr unter ihnen statt; die Einen

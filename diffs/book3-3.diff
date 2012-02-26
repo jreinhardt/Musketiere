@@ -1,0 +1,8 @@
+--- tex_orig/book3-3.tex	2012-02-26 22:12:20.000000000 +0100
++++ tex/book3-3.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die nächtliche Runde}
++\chapter{Die nächtliche Runde}
+ 
+ Zehn Minuten darauf trabte die kleine Schar durch die Straße des
+ Bons-Enfants hinter dem Schauspielsaale, den der Kardinal Richelieu

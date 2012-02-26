@@ -1,0 +1,8 @@
+--- tex_orig/book3-40.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-40.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der Auftrag}
++\chapter{Der Auftrag}
+ 
+ Mazarin wollte auf der Stelle nach Saint-Germain weiterreisen,
+ allein die Königin erklärte, sie erwarte diejenigen Personen,

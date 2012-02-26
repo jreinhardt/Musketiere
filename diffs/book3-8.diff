@@ -1,0 +1,8 @@
+--- tex_orig/book3-8.tex	2012-02-26 22:12:21.000000000 +0100
++++ tex/book3-8.tex	2012-02-26 22:30:36.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Von den verschiedenen Wirkungen, die eine halbe Pistole auf einen Kirchendiener und auf einen Chorknaben haben kann}
++\chapter{Von den verschiedenen Wirkungen, die eine halbe Pistole auf einen Kirchendiener und auf einen Chorknaben haben kann}
+ 
+ D'Artagnan nahm seinen Weg nach dem Pont-neuf und wünschte sich
+ dabei Glück, daß er Planchet wieder gefunden, denn wiewohl er dem

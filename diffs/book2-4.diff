@@ -1,0 +1,10 @@
+--- tex_orig/book2-4.tex	2012-02-26 22:12:17.000000000 +0100
++++ tex/book2-4.tex	2012-02-26 22:25:32.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{III.}
+-
+-Engländer und Franzosen.
++\chapter{Engländer und Franzosen.}
+ 
+ Zur bestimmten Stunde begab man sich mit den vier Lakaien hinter
+ dem Luxemburg in ein Gehege, das den Ziegen überlassen war, Athos

@@ -1,0 +1,8 @@
+--- tex_orig/book3-39.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-39.tex	2012-02-26 22:30:32.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Die Karosse des Koadjutors}
++\chapter{Die Karosse des Koadjutors}
+ 
+ Anstatt daß d'Artagnan durch das Tor Saint-Honoré zurückkehrte,
+ ging er, da er Zeit hatte, um die Stadt, und kehrte durch das Tor

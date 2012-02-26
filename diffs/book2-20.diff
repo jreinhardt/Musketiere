@@ -1,0 +1,10 @@
+--- tex_orig/book2-20.tex	2012-02-26 22:12:19.000000000 +0100
++++ tex/book2-20.tex	2012-02-26 22:27:58.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XIX.}
+-
+-Der Rath der Musketiere.
++\chapter{Der Rath der Musketiere.}
+ 
+ Die Bastei war, wie dies Athos vorhergesehen, nur von einem Dutzend
+ Todter, sowohl Franzosen als Rocheller, besetzt.

@@ -1,0 +1,8 @@
+--- tex_orig/book3-46.tex	2012-02-26 22:12:23.000000000 +0100
++++ tex/book3-46.tex	2012-02-26 22:30:33.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Das Losungswort}
++\chapter{Das Losungswort}
+ 
+ Als Mordaunt vor dem Hause ankam, sah er d'Artagnan an der Schwelle
+ und die Soldaten hie und da auf dem Rasen des Gartens liegen.

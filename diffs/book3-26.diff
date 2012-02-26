@@ -1,0 +1,8 @@
+--- tex_orig/book3-26.tex	2012-02-26 22:12:22.000000000 +0100
++++ tex/book3-26.tex	2012-02-26 22:30:31.000000000 +0100
+@@ -1,4 +1,4 @@
+-\subsubsection{Der Brief Cromwells}
++\chapter{Der Brief Cromwells}
+ 
+ In dem Momente, als die Königin Henriette die Karmeliterinnen
+ verließ, um sich nach dem Palais-Royal zu begeben, stieg am Tor
