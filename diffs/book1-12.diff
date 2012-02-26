@@ -1,0 +1,10 @@
+--- tex_orig/book1-12.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-12.tex	2012-02-26 21:14:08.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XI.}
+-
+-Die Intrigue schürzt sich.
++\chapter{Die Intrigue schürzt sich.}
+ 
+ Als d'Artagnan seinen Besuch bei Herrn von Treville gemacht hatte,
+ nahm er den weitesten Weg, um nach Hause zu gehen.

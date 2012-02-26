@@ -1,0 +1,10 @@
+--- tex_orig/book1-18.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-18.tex	2012-02-26 21:21:35.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XVII.}
+-
+-Die Haushaltung Bonacieux.
++\chapter{Die Haushaltung Bonacieux.}
+ 
+ Es war das zweite Mal, daß der Kardinal der diamantenen
+ Nestelstifte gegen den König erwähnte. Ludwig XIII. war über diese

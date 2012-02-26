@@ -1,0 +1,27 @@
+--- tex_orig/book1-1.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-1.tex	2012-02-26 17:50:02.000000000 +0100
+@@ -1,23 +1 @@
+-\subsubsection{Alexander Dumas}
+-
+-\subsection{Die drei Musketiere – Band I}
+-
+-Historischer Roman
+-
+-~
+-
+-Aus dem Französischen von \\Zoller.
+-
+-~
+-
+-Stuttgarter illustrierte Ausgabe.
+-
+-Stuttgart.
+-
+-Franckh'sche Verlagshandlung. W. Keller \& Co.
+-
+-Hofbuchdruckerei C. Liebich, Stuttgart.
+-
+-
+-
+-\includegraphics{musket-1/bilder/titel.png}
++\includegraphics[width=\textwidth]{musket-1/bilder/titel.png}

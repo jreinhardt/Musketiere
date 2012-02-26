@@ -1,0 +1,10 @@
+--- tex_orig/book1-4.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-4.tex	2012-02-26 21:02:38.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{III}
+-
+-Die Audienz.
++\chapter{Die Audienz.}
+ 
+ Herr von Treville war in diesem Augenblick in einer abscheulichen
+ Laune; nichtsdestoweniger grüßte er höflich den jungen Mann, der

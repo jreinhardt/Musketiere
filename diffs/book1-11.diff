@@ -1,0 +1,21 @@
+--- tex_orig/book1-11.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-11.tex	2012-02-26 21:40:23.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{X.}
+-
+-Eine Mausfalle im siebzehnten Jahrhundert.
++\chapter{Eine Mausfalle im siebzehnten Jahrhundert.}
+ 
+ Die Mausfalle ist keine Erfindung unserer Tage; sobald die
+ Gesellschaften bei ihrer Bildung irgend eine Polizei erfunden
+@@ -140,7 +138,10 @@
+ »Ich will mich ebenfalls in der Mausfalle fangen lassen, aber wehe
+ den Katzen, die sich an einer solchen Maus reiben.«
+ 
++\begin{center}
+ \includegraphics{musket-1/bilder/0003.jpg}
++\end{center}
++
+ Kaum hatte der Klopfer unter der Hand des jungen Mannes ertönt, als
+ das Geräusch aufhörte; es näherten sich Tritte, die Thüre öffnete
+ sich und d'Artagnan stürzte mit bloßem Degen in das Zimmer des

@@ -1,0 +1,10 @@
+--- tex_orig/book1-20.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-20.tex	2012-02-26 21:22:12.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XIX.}
+-
+-Feldzugsplan.
++\chapter{Feldzugsplan.}
+ 
+ D'Artagnan begab sich geraden Wegs zu Herrn von Treville. Er hatte
+ überlegt, daß in einigen Minuten der Kardinal durch diesen

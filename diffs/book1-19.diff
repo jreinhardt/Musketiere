@@ -1,0 +1,10 @@
+--- tex_orig/book1-19.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-19.tex	2012-02-26 21:21:43.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XVIII.}
+-
+-Der Liebhaber und der Gatte.
++\chapter{Der Liebhaber und der Gatte.}
+ 
+ »Aber, Madame Bonacieux,« sagte d'Artagnan, durch die Thüre
+ eintretend, welche ihm die junge Frau öffnete, »erlaubt mir. Euch

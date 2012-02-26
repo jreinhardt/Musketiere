@@ -1,0 +1,21 @@
+--- tex_orig/book1-27.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-27.tex	2012-02-26 21:43:13.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXVI.}
+-
+-Die These von Aramis.
++\chapter{Die These von Aramis.}
+ 
+ D'Artagnan hatte Porthos weder von der Wunde noch von der
+ Procuratorsfrau Etwas gesagt. Es war ein sehr kluger Bursche, unser
+@@ -122,7 +120,10 @@
+ schob er ihn ganz einfach mit einer Hand aus die Seite und drehte
+ mit der andern den Knopf der Thüre von Nro. S.
+ 
++\begin{center}
+ \includegraphics{musket-1/bilder/0005.jpg}
++\end{center}
++
+ Die Thüre öffnete sich und d'Artagnan trat in das Zimmer ein.
+ 
+ Aramis saß in einem schwarzen Oberrock mit einer runden und platten

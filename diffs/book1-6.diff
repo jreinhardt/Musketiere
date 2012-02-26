@@ -1,0 +1,10 @@
+--- tex_orig/book1-6.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-6.tex	2012-02-26 21:16:41.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{V.}
+-
+-Vie Musketiere des Königs und die Leibwache des Herrn Kardinals
++\chapter{Die Musketiere des Königs und die Leibwache des Herrn Kardinals}
+ 
+ D'Artagnan kannte Niemand in Paris. Er ging daher nach dem
+ bestimmten Orte, ohne einen Sekundanten mitzubringen, entschlossen,

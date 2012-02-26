@@ -1,0 +1,10 @@
+--- tex_orig/book1-3.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-3.tex	2012-02-26 21:02:29.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{II.}
+-
+-Das Vorzimmer des Herrn von Treville.
++\chapter{Das Vorzimmer des Herrn von Treville.}
+ 
+ Herr von Troisville, wie seine Familie in der Gascogne noch hieß,
+ oder Herr von Treville, wie er sich selbst am Ende in Paris nannte,

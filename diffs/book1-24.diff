@@ -1,0 +1,10 @@
+--- tex_orig/book1-24.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-24.tex	2012-02-26 21:22:38.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXIII.}
+-
+-Das Rendezvous.
++\chapter{Das Rendezvous.}
+ 
+ D'Artagnan lief in aller Eile nach Haus, und obgleich es Morgens
+ drei Uhr war und er die abscheulichsten Quartiere von Paris zu

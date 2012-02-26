@@ -1,0 +1,10 @@
+--- tex_orig/book1-13.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-13.tex	2012-02-26 21:14:16.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XII.}
+-
+-George Villiers, Herzog von Buckingham.
++\chapter{George Villiers, Herzog von Buckingham.}
+ 
+ Frau Bonacieux und der Herzog gelangten ohne Mühe in den Louvre;
+ von Frau Bonacieux war es bekannt, daß sie im Dienste der Königin

@@ -1,0 +1,23 @@
+--- tex_orig/book1-17.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-17.tex	2012-02-26 21:42:13.000000000 +0100
+@@ -1,7 +1,5 @@
+-\subsubsection{XVI.}
+-
+-Worin der Herr Siegelbewahrer Seguier mehrmals die Glocke suchte,
+-um zu läuten, wie er auch sonst gethan.
++\chapter{Worin der Herr Siegelbewahrer Seguier mehrmals die Glocke suchte,
++um zu läuten, wie er auch sonst gethan.}
+ 
+ Man kann sich unmöglich einen Begriff von dem Eindruck machen, den
+ diese paar Worte bei Ludwig XIII. hervorriefen. Er wurde
+@@ -375,7 +373,10 @@
+ Königin, bei der sich das kaiserliche Blut der Spanierin und
+ Oesterreicherin empörte.
+ 
++\begin{center}
+ \includegraphics{musket-1/bilder/0001.jpg}
++\end{center}
++
+ Der Kanzler machte eine tiefe Verbeugung; mit der klaren Absicht,
+ keinen Zollbreit von der Erfüllung des Auftrags, den er übernommen,
+ zurückzuweichen, und wie es etwa ein Henkersknecht in der

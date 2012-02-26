@@ -1,0 +1,10 @@
+--- tex_orig/book1-9.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-9.tex	2012-02-26 21:13:28.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{VIII.}
+-
+-Eine Hof-Intrigue.
++\chapter{Eine Hof-Intrigue.}
+ 
+ Die vierzig Pistolen von König Ludwig XIII. nahmen, wie alle Dinge
+ dieser Welt, nachdem sie einen Anfang gehabt hatten, auch ein Ende,

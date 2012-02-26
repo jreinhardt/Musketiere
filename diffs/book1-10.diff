@@ -1,0 +1,10 @@
+--- tex_orig/book1-10.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-10.tex	2012-02-26 21:13:36.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{IX.}
+-
+-D'Artagnan zeigt sich in einem eigenthümlichen Lichte.
++\chapter{D'Artagnan zeigt sich in einem eigenthümlichen Lichte.}
+ 
+ Nach Verlauf einer halben Stunde kehrte d'Artagnan zurück, wie dies
+ Athos und Porthos vorhergesehen hatten. Er hatte auch dießmal

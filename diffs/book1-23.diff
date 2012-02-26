@@ -1,0 +1,10 @@
+--- tex_orig/book1-23.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-23.tex	2012-02-26 21:22:34.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXII.}
+-
+-Das Ballet der Merlaison.
++\chapter{Das Ballet der Merlaison.}
+ 
+ Am folgenden Tag sprach man in allen Straßen von Paris nur von dem
+ Ball, den die Herren Schöppen der Stadt dem König und der Königin

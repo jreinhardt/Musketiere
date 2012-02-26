@@ -1,0 +1,10 @@
+--- tex_orig/book1-16.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-16.tex	2012-02-26 21:20:35.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XV.}
+-
+-Beamter und Kriegsmann.
++\chapter{Beamter und Kriegsmann.}
+ 
+ Als am Tage nach diesen Ereignissen Athos nicht erschien, wurde
+ Herr von Treville durch d'Artagnan und Porthos von seinem

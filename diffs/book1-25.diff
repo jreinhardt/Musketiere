@@ -1,0 +1,10 @@
+--- tex_orig/book1-25.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-25.tex	2012-02-26 21:22:45.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXIV.}
+-
+-Der Pavillon.
++\chapter{Der Pavillon.}
+ 
+ Um sieben Uhr befand sich d'Artagnan bei dem Hotel der Garden. Er
+ fand Planchet unter den Waffen. Das vierte Pferd war eingetroffen.

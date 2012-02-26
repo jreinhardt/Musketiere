@@ -1,0 +1,10 @@
+--- tex_orig/book1-29.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-29.tex	2012-02-26 21:23:15.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXVIII.}
+-
+-Rückkehr.
++\chapter{Rückkehr.}
+ 
+ D'Artagnan blieb ganz betäubt durch die furchtbare Mittheilung von
+ Athos. Es erschienen ihm noch sehr viele Dinge dunkel in dieser

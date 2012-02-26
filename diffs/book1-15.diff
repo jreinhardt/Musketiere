@@ -1,0 +1,21 @@
+--- tex_orig/book1-15.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-15.tex	2012-02-26 21:41:38.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XIV.}
+-
+-Der Mann von Meung.
++\chapter{Der Mann von Meung.}
+ 
+ Der Zusammenlauf fand nicht statt, weil man einen für den Galgen
+ bestimmten Menschen erwartete, sondern er wurde durch die
+@@ -65,7 +63,10 @@
+ aus, und seine büffelledernen, noch leicht mit Staub bedeckten
+ Stiefel deuteten an, daß er im Verlauf des Tages geritten war.
+ 
++\begin{center}
+ \includegraphics{musket-1/bilder/0002.jpg}
++\end{center}
++
+ Dieser Mann war Armand Jean Duplessis, Kardinal von Richelieu,
+ nicht wie man ihn uns darstellt, hinfällig wie ein Greis, leidend
+ wie ein Märtyrer, mit gebrochenem Körper, erloschener Stimme, in

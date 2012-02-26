@@ -1,0 +1,10 @@
+--- tex_orig/book1-28.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-28.tex	2012-02-26 21:23:07.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXVII.}
+-
+-Die Frau von Athos.
++\chapter{Die Frau von Athos.}
+ 
+ »Wir müssen uns nun noch Kunde von Athos verschaffen,« sagte
+ d'Artagnan dem munter gewordenen Aramis, als er ihn von dem, was

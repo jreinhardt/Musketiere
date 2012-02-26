@@ -1,0 +1,12 @@
+--- tex_orig/book1-5.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-5.tex	2012-02-26 21:05:01.000000000 +0100
+@@ -1,7 +1,5 @@
+-\subsubsection{IV.}
+-
+-Die Schulter von Athos, das Wehrgehänge von Porthos und das
+-Taschentuch von Aramis.
++\chapter{Die Schulter von Athos, das Wehrgehänge von Porthos und das
++Taschentuch von Aramis.}
+ 
+ Von Wuth entbrannt hatte d'Artagnan in drei Sprüngen das Vorzimmer
+ hinter sich, und er stürzte nach der Treppe, deren Stufen er zu

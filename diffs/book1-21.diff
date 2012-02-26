@@ -1,0 +1,21 @@
+--- tex_orig/book1-21.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-21.tex	2012-02-26 21:42:39.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XX.}
+-
+-Die Reise.
++\chapter{Die Reise.}
+ 
+ Um zwei Uhr Morgens zogen die vier Abenteurer durch die Barriere
+ St. Denis aus Paris; so lange es Nacht war, blieben sie stumm.
+@@ -231,7 +229,10 @@
+ 
+ »Weißt Du, was aus Athos geworden ist?« fragte d'Artagnan.
+ 
++\begin{center}
+ \includegraphics{musket-1/bilder/0004.jpg}
++\end{center}
++
+ »Ach! gnädiger Herr,« erwiederte Planchet, »ich habe zwei auf seine
+ Schüsse fallen sehen, und bei einem Blicke, den ich noch durch die
+ Glasthüre warf, kam es mir vor, als fuchtelte er mit den andern.«

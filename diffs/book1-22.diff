@@ -1,0 +1,10 @@
+--- tex_orig/book1-22.tex	2012-02-20 22:33:58.000000000 +0100
++++ tex/book1-22.tex	2012-02-26 21:22:27.000000000 +0100
+@@ -1,6 +1,4 @@
+-\subsubsection{XXI.}
+-
+-Die Gräfin von Winter.
++\chapter{Die Gräfin von Winter.}
+ 
+ Den ganzen Weg entlang ließ sich der Herzog über Alles von
+ d'Artagnan Bericht erstatten, nicht über Alles, was vorgefallen
