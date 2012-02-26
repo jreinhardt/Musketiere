@@ -1,6 +1,8 @@
 *.pdf
 *.aux
 *.log
+*.toc
+.*.swp
 musket-1
 musket-2
 tex
